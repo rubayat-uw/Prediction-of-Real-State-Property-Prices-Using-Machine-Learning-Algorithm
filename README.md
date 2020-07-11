@@ -1,2 +1,2 @@
 # Prediction-of-Real-State-Property-Prices-Using-Machine-Learning-Algorithm
-ECA 657A Project
+UW ECA 657A Project
